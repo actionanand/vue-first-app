@@ -26,3 +26,8 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### How to deploy to gitHub
+
+- [Automatically build and deploy a Vue.js app with GitHub Pages](https://blog.logrocket.com/automatically-build-deploy-vuejs-app-github-pages/)
+- [execa npm](https://www.npmjs.com/package/execa)
