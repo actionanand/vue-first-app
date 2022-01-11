@@ -20,5 +20,9 @@ npm run build
 npm run lint
 ```
 
+### Extensions
+
+1. [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
